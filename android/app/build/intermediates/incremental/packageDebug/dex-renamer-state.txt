@@ -1,0 +1,4 @@
+#Wed Jul 11 07:19:39 EET 2018
+base.0=/home/moha/Documents/auth/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/moha/Documents/auth/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
